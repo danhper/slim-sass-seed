@@ -93,6 +93,10 @@ So if you create `public/coffee/app.coffee`, it will be compiled to `public/js/a
 script src="/js/app.js"
 ```
 
+### Livereload
+
+If you have the Livereload extension installed for your browser, it should work out of the box. The Livereload server should be listening on port 35729.
+
 ## TODO
 
 I will try to make the project easily configurable even by non-programmers
